@@ -1,3 +1,14 @@
+apertium-hbs-slv (0.1.0~r59294-1+wmf1) jessie-wikimedia; urgency=low
+
+  * New upstream snapshot.
+  * Rebuild for Jessie.
+  * Cleanup debian/rules file.
+  * debian/control:
+    + Use debhelper 9.
+    + Fixed dependencies.
+
+ -- Kartik Mistry <kartik@debian.org>  Thu, 25 Aug 2016 11:14:08 +0530
+
 apertium-hbs-slv (0.5.0~r43858-1) trusty; urgency=low
 
   [ Tino Didriksen ]
